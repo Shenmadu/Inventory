@@ -1,0 +1,8 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ãˆÂäÉ1
+^
+java:S1128"ARemove this unused import 'edu.icet.service.InventryServiceImpl'.(…Ô±ò8ìˆÂäÉ1
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8íˆÂäÉ1
